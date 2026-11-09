@@ -4,6 +4,8 @@ This is an extensible Alexa Companion Skill.
 
 ## Prerequisites
 
+La Lambda viene eseguita su Node.js 24.x.
+
 1. You will need an Amazon Developer account as well as an AWS account
 1. Clone the repository
 1. [Create AWS credentials](https://developer.amazon.com/de-DE/docs/alexa/smapi/manage-credentials-with-ask-cli.html#create-aws-credentials)
@@ -100,7 +102,7 @@ This is an extensible Alexa Companion Skill.
 ## Debugging
 
 ```
-ask dialog --locale de-DE
+ask dialog --locale it-IT
 ```
 
 ## Backend support
@@ -111,3 +113,4 @@ ask dialog --locale de-DE
 ## Language support
 
 - German
+- Italian

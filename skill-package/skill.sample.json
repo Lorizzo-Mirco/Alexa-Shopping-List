@@ -2,6 +2,16 @@
   "manifest": {
     "publishingInformation": {
       "locales": {
+        "it-IT": {
+          "summary": "Lista della spesa per Home Assistant",
+          "examplePhrases": [
+            "Alexa apri Lista della spesa",
+            "aggiungi il latte alla lista della spesa",
+            "cosa c'è nella lista della spesa"
+          ],
+          "name": "Lista della spesa",
+          "description": "Aggiungi e leggi la lista della spesa di Home Assistant con Alexa"
+        },
         "de-DE": {
           "summary": "Selbst gehostete Einkaufsliste",
           "examplePhrases": [
